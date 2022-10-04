@@ -1,4 +1,4 @@
-Telecom Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
 ## Goal:
 The purpose of this project is to build a machine learning model that can predict whether a customer will churn or not.
@@ -22,4 +22,4 @@ The data set includes information about:
 - Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
-The dataset can be found on [kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+The dataset can be found on [kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
